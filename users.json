@@ -1,0 +1,29 @@
+{
+    "user1": {
+      "id":1,
+      "firstname":"Hamid",
+      "lastname":"AbdulMalik",
+      "email":"hamidabdulmalik@gmail.com"
+    },
+  
+    "user2":  {
+      "id":2,
+      "firstname":"Badamasi",
+      "lastname":"Zakari",
+      "email":"dr.bzydoma@gmail.com"
+    },
+  
+    "user3":  {
+      "id":3,
+      "firstname":"Ramatu",
+      "lastname":"Zakariya",
+      "email":"ramatuzakariya123@gmail.com"
+    },
+  
+    "user4": {
+      "id":4,
+      "firstname":"Maliki",
+      "lastname":"Zakariya",
+      "email":"malikizakariya@yahoo.com"
+    }
+  }
